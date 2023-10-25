@@ -14,6 +14,10 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.0
+  meta: ^1.9.1
+  slider_button: ^2.0.0
+  url_launcher: ^6.1.14
+  walletconnect_dart: ^0.0.11
 
 dev_dependencies:
   bloc_test: ^9.1.4
@@ -25,3 +29,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   generate: true
+  assets:
+    - assets/
