@@ -14,7 +14,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.0
-  meta: ^1.9.1
+  meta: ^1.10.0
   slider_button: ^2.0.0
   url_launcher: ^6.1.14
   walletconnect_dart: ^0.0.11
